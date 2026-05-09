@@ -1,7 +1,7 @@
 Baderna: 25
 Barban: 35
 Buje: 21
-Grožnjan: 17
+Groznjan: 17
 Kanfanar: 30
 Labin: 35
 Lupoglav: 35
@@ -9,11 +9,11 @@ Medulin: 61
 Motovun: 12
 Opatija: 26
 Pazin: 40
-Poreč: 32
+Porec: 32
 Pula: 57
 Rovinj: 40
 Umag: 31
-Višnjan: 20
+Visnjan: 20
 Vodnjan: 47
-Žminj: 27
+Zminj: 27
 Buzet: 0
